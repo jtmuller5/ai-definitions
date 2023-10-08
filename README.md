@@ -9,6 +9,7 @@ This repository was created to aggregate the growing list of technical terms use
 
 | Term       | Definition     | Source  |
 |------------|-----------------|--------|
+| **BERT** | BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model that uses a language model to generate text. | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)|
 | **BLAS**   | BLAS (Basic Linear Algebra Subprograms) is a specification that prescribes a set of low-level routines for performing common linear algebra operations such as vector addition, scalar multiplication, dot products, linear combinations, and matrix multiplication. | [Basic Linear Algebra Subprograms](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms)|
 | **DSPy** | Demonstrate-Sequencing-Predict (DSPy) is a technique that is used to train a model to predict the next token in a sequence. | [DSPy: Programming—not prompting—Foundation Models](https://github.com/stanfordnlp/dspy)|
 | **GGUF**   | GPT-Generated Unified Format (GGUF)   | [GGML vs GGUF](https://medium.com/@phillipgimmi/what-is-gguf-and-ggml-e364834d241c)|
